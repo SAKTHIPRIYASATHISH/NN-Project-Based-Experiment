@@ -126,6 +126,9 @@ print(x_single_prediction)
 ![image](https://github.com/SAKTHIPRIYASATHISH/NN-Project-Based-Experiment/assets/119104282/352a912e-83ef-4083-97ed-f5e451b02eab)
 
 
+## Result:
+Thus the program to Build a Multilayer Perceptron (MLP) to classify handwritten digits in python is excecuted successfully.
+
 
 
 
